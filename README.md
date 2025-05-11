@@ -1,6 +1,5 @@
 # Deploying-WordPress-on-Amazon-ECS
-![Architecture Diagram](./architecture-diagram.png)
-
+C:\Users\sylve\Downloads/architecture-diagram.png)
 
 Deploying WordPress on Amazon ECS
 
