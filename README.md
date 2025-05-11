@@ -1,4 +1,7 @@
 # Deploying-WordPress-on-Amazon-ECS
+![Architecture Diagram](./architecture-diagram.png)
+
+
 Deploying WordPress on Amazon ECS
 
 Part 1: Deploy a WordPress Containerized Application on Amazon ECS
