@@ -105,9 +105,7 @@ Secure your WordPress website with HTTPS using:
 ---
 
 ## 🖼️ Architecture Diagram
-Below is the system architecture diagram illustrating the relationship between ECS, ALB, Route 53, and ACM:
-
-![Architecture Diagram](./architecture-diagram.png)
+See annex
 
 ---
 
